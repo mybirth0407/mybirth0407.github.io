@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Yedarm Seong
 title: Master Student, Seoul National University
-email: mybirth0407
+email: mybirth0407@gmail.com, mybirth0407@snu.ac.kr
 website: www.github.com/mybirth0407
 
 # Dark Mode (true/false/never)
@@ -16,13 +16,13 @@ darkmode: true
 
 # Social links
 # twitter_username: facespics
-github_username:  mybirth0407
+github_username: mybirth0407
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: mybirth0407
+linkedin_username: yedarm-seong
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -59,7 +59,7 @@ content:
       - layout: left
         title: Seoul Nataional University
         caption: 2021 - 2023 (expected)
-        sub_title: Master, Computational Science & Technology
+        sub_title: Master, Computational Science
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -70,7 +70,7 @@ content:
       - layout: left
         title: Hanyang University
         caption: 2013 - 2018
-        sub_title: Bachelor, Computer Science & Engineering
+        sub_title: Bachelor, Computer Science
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
