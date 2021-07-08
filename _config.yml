@@ -59,7 +59,7 @@ content:
         caption: 2021 - 2023 (expected)
         sub_title: Master, Computational Science
         quote: >
-          Computer vision; Computational Science; Reinforcement Learning;
+          To be updated.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -68,7 +68,7 @@ content:
         caption: 2013 - 2018
         sub_title: Bachelor, Computer Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Project, The Theorical Mass Spectra Prediction using Deep Learning.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -80,7 +80,7 @@ content:
         sub_title: Research Assistant
         caption: March 2021 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Computer Vision; Computational Science; Reinforcement Learning;
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
@@ -89,7 +89,7 @@ content:
         sub_title: Research Assistant
         caption: July 2020 - December 2020
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Model-based fMRI; Machine Learning;
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
@@ -98,7 +98,7 @@ content:
         sub_title: Research Assistant
         caption: July 2018 - March 2019
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Computer Vision; Natual Language Processing; Back-end Development;
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
@@ -107,7 +107,7 @@ content:
         sub_title: Research Assistant
         caption: April 2018 - May 2019
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Computational Neuroscience; Reinforcement Learning;
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
@@ -116,7 +116,7 @@ content:
         sub_title: Research Assistant
         caption: July 2017 - February 2018
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Deep Learning;
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
