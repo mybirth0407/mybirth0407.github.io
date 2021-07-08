@@ -48,7 +48,7 @@ linkedin_username: yedarm-seong
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I am Yedarm Seong and a master stuent in Seoul Natiaonal University. My research interests focus on <mark>Mathematics for Machine Learning</mark>, <mark>Reinforcement Learning</mark>, <mark>Explainable AI</mark>. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, I am Yedarm Seong and a master stuent in Seoul Natiaonal University. My research interests focus on <mark>Mathematics for Machine Learning</mark>, <mark>Reinforcement Learning</mark>, <mark>Explainable AI</mark>. And I am also very interested in Computer and AI education.
 
 content:
   - title: Education # Title for the section
@@ -59,7 +59,7 @@ content:
         caption: 2021 - 2023 (expected)
         sub_title: Master, Computational Science
         quote: >
-          To be updated.
+          Graduate Thesis: To be updated.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -68,9 +68,9 @@ content:
         caption: 2013 - 2018
         sub_title: Bachelor, Computer Science
         quote: >
-          Project, The Theorical Mass Spectra Prediction using Deep Learning.
+          Graduate Project: The Theorical Mass Spectra Prediction using Deep Learning
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          .
 
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -82,7 +82,7 @@ content:
         quote: >
           Computer Vision; Computational Science; Reinforcement Learning
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          .
 
       - layout: left
         title: Institute for the Psychological Sciences
@@ -91,7 +91,7 @@ content:
         quote: >
           Model-based fMRI; Machine Learning
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          .
 
       - layout: left
         title: BioIntelligence Lab.
@@ -100,7 +100,7 @@ content:
         quote: >
           Computer Vision; Natual Language Processing
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          .
 
       - layout: left
         title: System Neuroscience Lab.
@@ -109,7 +109,7 @@ content:
         quote: >
           Computational Neuroscience; Reinforcement Learning
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          .
 
       - layout: left
         title: Signal Processing Lab.
@@ -118,7 +118,7 @@ content:
         quote: >
           Deep Learning
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          .
 
   - title: Working Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -132,7 +132,7 @@ content:
         quote: >
           Natural Language Processing; Funnel Data Analysis
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          .
 
       - layout: left
         title: Surromind Robotics
@@ -143,7 +143,7 @@ content:
         quote: >
           Computer Vision; Natual Language Processing; Deep Learning Model Serving
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          .
 
       - layout: left
         title: ESTsoft
@@ -154,7 +154,7 @@ content:
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          .
 
   - title: Teaching/Mentoring Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -168,7 +168,7 @@ content:
         quote: >
           Mentoring; Competition; Deep Learning Basics;
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          .
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -187,20 +187,16 @@ content:
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+          .
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in AI and software engineering some of my other interests and hobbies are:
+      - Starcraft I
+      - Sing a song
+      - [Walking w/ **mongsil**](https://avatars.githubusercontent.com/u/15686143?v=4) (She is my dog friend!)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
