@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
   - Starcraft I
   - Sing a song
   - Push up and squat workout
-  - Walking with [**mongsil**](https://avatars.githubusercontent.com/u/15686143?v=4) (She is my dog friend!)
+  - Walking with [**mongsil**](https://avatars.githubusercontent.com/u/15686143?v=4) (She is a my dog friend!)
 
 content:
   - title: Education # Title for the section
@@ -158,7 +158,7 @@ content:
         sub_title: Assistant Developer
         caption: March 2016 - February 2017
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Recommender system; Chrome Extensions
         description: | # this will include new lines to allow paragraphs
           .
 
@@ -194,7 +194,6 @@ content:
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           .
-
 
 
 # Footer
