@@ -21,7 +21,7 @@ github_username: mybirth0407
 # dribbble_username: jekyll
 facebook_username: jekyll
 # flickr_username: jekyll
-# instagram_username: jameswgrant
+instagram_username: mybirth0407
 linkedin_username: yedarm-seong
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Yedarm Seong and a master stuent in Seoul Natiaonal University. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>Starcraft I</mark> and <mark>Sing a Song</mark>
+  I Like it: <mark>Starcraft I</mark>, <mark>Sing a Song</mark>
 
 content:
   - title: Education # Title for the section
