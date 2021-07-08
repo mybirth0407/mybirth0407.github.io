@@ -48,7 +48,7 @@ linkedin_username: yedarm-seong
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I am Yedarm Seong and a master stuent in Seoul Natiaonal University. My research interests focus on <mark>Mathematics for Machine Learning</mark> and <mark>Reinforcement Learning</mark> <mark>Explainable AI</mark>. And I am also very interested in Computer and AI education.
+  Hi, I am Yedarm Seong and a master stuent in Seoul Natiaonal University. My research interests focus on <mark>Mathematics for Machine Learning</mark> <mark>Reinforcement Learning</mark> and <mark>Explainable AI</mark>. And I am also very interested in Computer and AI education.
 
   Alongside my interests in AI and software engineering some of my other interests and hobbies are:
       - Starcraft I
