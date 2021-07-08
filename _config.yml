@@ -147,7 +147,7 @@ content:
         sub_title: Assistant Researcher
         caption: October 2018 - March 2019
         quote: >
-          Computer Vision; Natual Language Processing; Deep Learning Model Serving
+          Computer Vision; Natual Language Processing; Model Serving
         description: | # this will include new lines to allow paragraphs
           .
 
@@ -172,7 +172,7 @@ content:
         sub_title: Mentor
         caption: December 2020 - Present
         quote: >
-          Mentoring; Competition; Deep Learning Basics;
+          Deep Learning Basics; AI Education
         description: | # this will include new lines to allow paragraphs
           .
 
