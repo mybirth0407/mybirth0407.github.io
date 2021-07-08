@@ -48,7 +48,7 @@ linkedin_username: yedarm-seong
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I am Yedarm Seong and a master stuent in Seoul Natiaonal University. I am interested in <mark>Reinforcement Learning</mark>, <mark>Mathematics for Machine Learning</mark>, <mark>Explainable AI</mark>. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, I am Yedarm Seong and a master stuent in Seoul Natiaonal University. My research interests focus on <mark>Mathematics for Machine Learning</mark>, <mark>Reinforcement Learning</mark>, <mark>Explainable AI</mark>. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
 content:
   - title: Education # Title for the section
@@ -59,11 +59,9 @@ content:
         caption: 2021 - 2023 (expected)
         sub_title: Master, Computational Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Computer vision; Computational Science; Reinforcement Learning;
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my time as a *Vice-President* of the ** taking on roles**
 
       - layout: left
         title: Hanyang University
@@ -73,8 +71,6 @@ content:
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
