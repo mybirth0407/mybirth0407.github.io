@@ -50,6 +50,12 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I am Yedarm Seong and a master stuent in Seoul Natiaonal University. My research interests focus on <mark>Mathematics for Machine Learning</mark> and <mark>Reinforcement Learning</mark> <mark>Explainable AI</mark>. And I am also very interested in Computer and AI education.
 
+  Alongside my interests in AI and software engineering some of my other interests and hobbies are:
+      - Starcraft I
+      - Sing a song
+      - Push up and squat workout
+      - Walking with [**mongsil**](https://avatars.githubusercontent.com/u/15686143?v=4) (She is my dog friend!)
+
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -189,14 +195,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           .
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in AI and software engineering some of my other interests and hobbies are:
-      - Starcraft I
-      - Sing a song
-      - Push up and squat workout
-      - Walking with [**mongsil**](https://avatars.githubusercontent.com/u/15686143?v=4) (She is my dog friend!)
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+
 
 # Footer
 footer_show_references: true
