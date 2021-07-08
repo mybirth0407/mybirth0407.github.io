@@ -130,7 +130,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: ZOYI Corporation
+        title: ZOYI
         link: https://zoyi.co
         link_text: zoyi.co
         sub_title: Data Analyst
