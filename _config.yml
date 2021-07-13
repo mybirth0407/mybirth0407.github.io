@@ -73,10 +73,9 @@ content:
         caption: 2013 - 2018
         sub_title: Bachelor, Computer Science
         quote: >
-          Graduate Project: The Theorical Mass Spectra Prediction using Deep Learning
+          Graduate Project: The Theorical Mass Spectra Prediction using Deep Learning (Advisor: [Eunok Paek](http://bislab.hanyang.ac.kr/))
         description: | # this will include new lines to allow paragraphs
           During my time at Hanyang, I learnt most of my key skills that have I have taken through my career such as communication and coworking.
-          
 
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -118,7 +117,7 @@ content:
           .
 
       - layout: left
-        title: Signal Processing Lab.
+        title: Hanyang University
         sub_title: Undergraduate Research Assistant
         caption: July 2017 - February 2018
         quote: >
